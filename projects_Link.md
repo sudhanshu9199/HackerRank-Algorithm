@@ -7,7 +7,7 @@
 | Task Tracker | Productivity App | https://task-tracker-02-by-sudhanshu-ghosh.netlify.app/ |
 | Minor Project | Web Design | https://frontend-minor-project-sudhanshughosh.netlify.app/ |
 | Web Design | Landing Page | https://sudhanshu-work-task1.netlify.app/ |
-| Mood Changer | Fun Project | https://mood-changer-1.netlify.app/ |
+| Mood Changer | Fun Project | https://mood-change.netlify.app/ |
 | Digital Mood Wall | Interactive App | https://digital-mood-wall.netlify.app/ |
 | Guess Number | Game | https://guess-number-by-sudhanshu-ghosh.netlify.app/ |
 | Device Tracker | Utility App | https://device-tracker-by-sudhanshu-ghosh.netlify.app/ |
